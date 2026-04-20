@@ -1,0 +1,19 @@
+uv add mlflow
+uv add ipykernel
+
+create get-started.ipynb
+
+mlflow ui
+
+
+1-MLPProject
+
+gettingstarted.ipynb
+
+housepricepredict.ipynb
+
+
+2 - DLMLFLOW
+
+
+DVC - Data Version Control

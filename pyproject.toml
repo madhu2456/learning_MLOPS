@@ -4,4 +4,16 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "hyperopt>=0.2.7",
+    "ipykernel>=7.2.0",
+    "keras>=3.14.0",
+    "mlflow>=3.11.1",
+    "numpy>=2.4.4",
+    "pandas>=2.3.3",
+    "pandas-stubs>=3.0.0.260204",
+    "pip>=26.0.1",
+    "scikit-learn>=1.8.0",
+    "setuptools<82",
+    "tensorflow>=2.21.0",
+]
